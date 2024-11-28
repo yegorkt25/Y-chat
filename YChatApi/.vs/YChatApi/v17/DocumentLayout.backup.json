@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\entities\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\entities\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\entities\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\entities\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\entities\\repositories\\messagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\entities\\repositories\\messagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\entities\\chatusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\entities\\chatusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\services\\imessagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\services\\imessagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\services\\messagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\services\\messagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\dtos\\chatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\dtos\\chatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\entities\\repositories\\imessagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\entities\\repositories\\imessagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|c:\\users\\yehor\\desktop\\projects\\webchat\\ychatapi\\ychatapi\\entities\\repositories\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584F64-8FC5-4AFE-99BE-B4989E6A5601}|YChatApi\\YChatApi.csproj|solutionrelative:ychatapi\\entities\\repositories\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\Message.cs",
+              "RelativeToolTip": "YChatApi\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:51:53.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\ChatUsers.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Entities\\ChatUsers.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\ChatUsers.cs",
+              "RelativeToolTip": "YChatApi\\Entities\\ChatUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:09:59.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\Repositories\\ChatRepository.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Entities\\Repositories\\ChatRepository.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\Repositories\\ChatRepository.cs",
+              "RelativeToolTip": "YChatApi\\Entities\\Repositories\\ChatRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:17:24.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\User.cs",
+              "RelativeToolTip": "YChatApi\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:58:44.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Entities\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "YChatApi\\Entities\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:43:45.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\Chat.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Entities\\Chat.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\Chat.cs",
+              "RelativeToolTip": "YChatApi\\Entities\\Chat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:25:56.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "YChatApi\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:00:41.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "YChatApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:00:22.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "YChatApi\\Controllers\\MessagesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:00:11.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Services\\UserService.cs",
+              "RelativeToolTip": "YChatApi\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:38:36.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MessagesService.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Services\\MessagesService.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Services\\MessagesService.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Services\\MessagesService.cs",
+              "RelativeToolTip": "YChatApi\\Services\\MessagesService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:37:31.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "YChatApi\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:28:16.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\DTOs\\ChatDto.cs",
+              "RelativeDocumentMoniker": "YChatApi\\DTOs\\ChatDto.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\DTOs\\ChatDto.cs",
+              "RelativeToolTip": "YChatApi\\DTOs\\ChatDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:28:47.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MessageDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\DTOs\\MessageDTO.cs",
+              "RelativeDocumentMoniker": "YChatApi\\DTOs\\MessageDTO.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\DTOs\\MessageDTO.cs",
+              "RelativeToolTip": "YChatApi\\DTOs\\MessageDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:28:43.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMessagesService.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Services\\IMessagesService.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Services\\IMessagesService.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Services\\IMessagesService.cs",
+              "RelativeToolTip": "YChatApi\\Services\\IMessagesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:27:31.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessagesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\Repositories\\MessagesRepository.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Entities\\Repositories\\MessagesRepository.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\Repositories\\MessagesRepository.cs",
+              "RelativeToolTip": "YChatApi\\Entities\\Repositories\\MessagesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:17:11.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\Repositories\\IChatRepository.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Entities\\Repositories\\IChatRepository.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\Repositories\\IChatRepository.cs",
+              "RelativeToolTip": "YChatApi\\Entities\\Repositories\\IChatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:15:11.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMessagesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\Repositories\\IMessagesRepository.cs",
+              "RelativeDocumentMoniker": "YChatApi\\Entities\\Repositories\\IMessagesRepository.cs",
+              "ToolTip": "C:\\Users\\Yehor\\Desktop\\projects\\WebChat\\YChatApi\\YChatApi\\Entities\\Repositories\\IMessagesRepository.cs",
+              "RelativeToolTip": "YChatApi\\Entities\\Repositories\\IMessagesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:15:06.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

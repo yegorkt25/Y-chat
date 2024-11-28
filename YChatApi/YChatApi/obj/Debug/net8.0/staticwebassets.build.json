@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MsoqD2yBJzSrrCYuhnO/yXdHKrcyiuMb2NdeRFfxZqw=",
+  "Source": "YChatApi",
+  "BasePath": "_content/YChatApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,29 @@
+version: '3.4'
+
+
+services:
+
+  app_database:
+    image: postgres:latest
+    container_name: app_db
+    environment:
+      - POSTGRES_USER=your-postgres-username
+      - POSTGRES_PASSWORD=your-postgres-password
+      - POSTGRES_DB=your-database-name
+    ports:
+      - 5432:5433
+
+    restart: always
+
+
+  taskmanager.api:
+    image: ${DOCKER_REGISTRY-}ExampleApp
+    build:
+      context: .
+      dockerfile: your-app-directory/Dockerfile
+ 
+    depends_on:
+        - "app_database"
+    environment: 
+         - ConnectionStrings:DefaultConnection="Host=app-database;Database=your-database-name;Username=your-postgres-username;Password=your-postgres-password;"
+         - ASPNETCORE_URLS=http://+80;
